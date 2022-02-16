@@ -142,7 +142,8 @@
     background: #eee;
     display: block;
     margin: 0.5em;
-    min-height: 35em;
+	min-height: 120px;
+	
     overflow: hidden;
     position: relative;
     width: auto;
@@ -253,7 +254,7 @@
 .wizard > .actions a:hover,
 .wizard > .actions a:active
 {
-    background: #2184be;
+    background: #1AB394;
     color: #fff;
     display: block;
     padding: 0.5em 1em;
