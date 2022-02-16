@@ -52,12 +52,6 @@
     Wizard
 */
 
-.wizard > .content
-{
-    display: inline-block;
-    width: 100%;
-}
-
 .wizard > .steps
 {
     position: relative;
